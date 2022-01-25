@@ -1,6 +1,6 @@
 {
   "name": "strapi-hook-elasticsearch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Strapi hook for elasticsearch",
   "keywords": [
     "elastic",
@@ -11,11 +11,11 @@
     "lifecycle hooks"
   ],
   "directories": {
-    "lib": "lib"
+    "lib": "./lib"
   },
-  "main": "lib",
+  "main": "./lib",
   "strapi": {
-    "isHook": true
+    "isProvider": true
   },
   "repository": "https://github.com/s-piazzano/strapi-hook-elasticsearch.git",
   "author": "spiazzano",
