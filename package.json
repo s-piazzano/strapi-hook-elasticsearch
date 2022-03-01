@@ -1,6 +1,6 @@
 {
   "name": "strapi-hook-elasticsearch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Strapi hook for elasticsearch",
   "keywords": [
     "elastic",
